@@ -35,4 +35,4 @@ https://adriendeval.github.io/ptcgpocket/titles/A2.png
 
 ---
 
-Dernière mise à jour : 11/02/25 à 11h51
+Dernière mise à jour : 28/02/25 à 13h33

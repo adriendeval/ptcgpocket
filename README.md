@@ -14,6 +14,10 @@ Base de données française du jeu PTCG Pocket.
 #### A2 - Choc Spatio-Temporel
 ![Choc Spatio-Temporel](https://raw.githubusercontent.com/adriendeval/ptcgpocket/refs/heads/main/titles/A2.png)
 
+#### A2a - Lumière Triomphale
+![Lumière Triomphale](https://raw.githubusercontent.com/adriendeval/ptcgpocket/refs/heads/main/titles/A2a.png)
+
+
 ---
 
 ## Exemples de requêtes
